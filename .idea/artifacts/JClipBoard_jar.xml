@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JClipBoard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JClipBoard_jar</output-path>
+    <root id="archive" name="JClipBoard.jar">
+      <element id="module-output" name="JClipBoard" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="JClipBoard">
+    <output-path>$PROJECT_DIR$/out/artifacts/JClipBoard</output-path>
+    <root id="root">
+      <element id="archive" name="JClipBoard.jar">
+        <element id="module-output" name="JClipBoard" />
+      </element>
+    </root>
+  </artifact>
+</component>
